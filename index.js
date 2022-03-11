@@ -1,6 +1,3 @@
-const { append } = require("express/lib/response")
-
-function({
+function helloworld(){
     console.log("hello world")
-});
-app.listen(3000, ()=> console.log('Started!'));
+}
