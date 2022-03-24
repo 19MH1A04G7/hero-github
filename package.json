@@ -1,0 +1,25 @@
+{
+  "name": "19mh1a04g7-task2",
+  "version": "1.2.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/19MH1A04G7/hero-github.git"
+  },
+  "keywords": [
+    "1234"
+  ],
+  "author": "REDDY",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/19MH1A04G7/hero-github/issues"
+  },
+  "homepage": "https://github.com/19MH1A04G7/hero-github#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
